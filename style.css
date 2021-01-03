@@ -124,9 +124,6 @@ img{
 .suggestions a:hover{
     box-shadow:1px 1px 5px #888888 ;
 }
-a:visited{
-    color:initial;
-}
 
 footer{
     color: #4d4d4d;
